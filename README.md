@@ -42,4 +42,4 @@ To get started, follow these steps:
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/cameron1cruz/odin-landing-page.git
+   git clone https://github.com/Cameron1Cruz/odin-landing-page.git
